@@ -103,6 +103,7 @@ li {
     padding: 1% 2% 1% 2%;
     font-size: 120%;
 }
+
 #row-1{
     display: grid;
     grid-template-columns: repeat(2, 2fr);
@@ -119,4 +120,8 @@ li {
     text-align: right;
     font-size: 150%;
     font-weight: bold;
+}
+
+.products > a {
+    color: black;
 }
